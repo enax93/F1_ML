@@ -87,9 +87,7 @@ A prototype web application can be created using Streamlit to provide an interac
     ```sh
     streamlit run app.py
     ```
-write(df_race[df_race['Driver'] == driver])
-```
-
+    
 ## Results
 
 The model's predictions have shown significant improvements over the baseline, providing a reliable tool for forecasting driver positions in races. The Random Forest Classifier's robustness and efficiency make it the preferred choice for deployment.
